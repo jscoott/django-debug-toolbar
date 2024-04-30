@@ -6,10 +6,10 @@ setup(
     description='A configurable set of panels that display various debug information about the current request/response.',
     long_description=open('README.rst').read(),
     # Get more strings from http://www.python.org/pypi?:action=list_classifiers
-    author='Rob Hudson',
+    author='James Scott',
     author_email='rob@cogit8.org',
-    url='http://robhudson.github.com/django-debug-toolbar/',
-    download_url='http://github.com/robhudson/django-debug-toolbar/downloads',
+    url='http://jscott.github.com/django-debug-toolbar/',
+    download_url='http://github.com/jscott/django-debug-toolbar/downloads',
     license='BSD',
     packages=find_packages(exclude=['ez_setup']),
     include_package_data=True,
